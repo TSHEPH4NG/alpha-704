@@ -39,8 +39,8 @@ body {
   position: relative;bottom:3rem;
 }
 .qrimg{
-position: absolute;bottom:17rem;
-width: 6rem;
+position: relative;bottom:2rem;
+width: 4rem;
 margin: 0px;
 padding: 0px;
 }
